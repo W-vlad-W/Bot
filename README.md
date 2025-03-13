@@ -10,8 +10,7 @@ Features
 
 Installation:
   Clone the Repository:
-      git clone https://github.com/your-repo.git
-      cd your-repo
+      gh repo clone W-vlad-W/Bot
       
   Install Dependencies:
       pip install -r requirements.txt
