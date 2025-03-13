@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+currency_converter
+currencyapicom
+python-dotenv
+
