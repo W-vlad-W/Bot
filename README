@@ -22,7 +22,7 @@ Installation:
           CURRENCY_API_KEY=your_currency_api_key
   
   Run the Bot:
-      python bot.py
+      python Telebot_v1.0.py
 
 
 Commands
